@@ -12,18 +12,29 @@ This repository contains automated tests for the Star Wars API (SWAPI) using Moc
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/star-wars-api-tests.git
-
+```
+git clone https://github.com/PoonamSangle/star-wars-api-tests.git
+```
 
 2. Navigate to the project directory:
+```
 cd star-wars-api-tests
+```
 
 3. Install dependencies:
+```
 npm install
+```
 
 4. Running Tests
+```
 npm test
+```
 
 5. Generating Reports
+```
 npm run report
+```
+
+
 This will generate HTML reports in the mochawesome-report directory.
